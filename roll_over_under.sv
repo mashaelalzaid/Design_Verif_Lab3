@@ -97,8 +97,6 @@ endclass
 
 
 /// TEST BENCH 
-`include "upcounter.sv"
-`include "downcounter.sv"
 
 module test;
     upcounter cnt1;
